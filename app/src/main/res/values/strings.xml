@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoQR</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard_en">Dashboard</string>
+    <string name="nav_dashboard_hi">डैशबोर्ड</string>
+    <string name="nav_dashboard_or">ଡ୍ୟାସବୋର୍ଡ</string>
+
+    <string name="nav_qr_code_en">My QR</string>
+    <string name="nav_qr_code_hi">मेरा QR</string>
+    <string name="nav_qr_code_or">ମୋ QR କୋଡ୍</string>
+
+    <string name="nav_history_en">History</string>
+    <string name="nav_history_hi">इतिहास</string>
+    <string name="nav_history_or">ଇତିହାସ</string>
+
+    <string name="nav_settings_en">Settings</string>
+    <string name="nav_settings_hi">सेटिंग्स</string>
+    <string name="nav_settings_or">ସେଟିଂସ</string>
+
+    <!-- Role Selection -->
+    <string name="role_select_title_en">Choose Your Role</string>
+    <string name="role_select_title_hi">अपनी भूमिका चुनें</string>
+    <string name="role_select_title_or">ଆପଣଙ୍କ ଭୂମିକା ବାଛନ୍ତୁ</string>
+
+    <string name="role_driver_btn_en">Main Driver Hoon 🚗</string>
+    <string name="role_driver_btn_hi">मैं ड्राइवर हूँ 🚗</string>
+    <string name="role_driver_btn_or">ମୁଁ ଡ୍ରାଇଭର ଅଟେ 🚗</string>
+
+    <string name="role_passenger_btn_en">Main Passenger Hoon 👤</string>
+    <string name="role_passenger_btn_hi">मैं यात्री हूँ 👤</string>
+    <string name="role_passenger_btn_or">ମୁଁ ଯାତ୍ରୀ ଅଟେ 👤</string>
+
+    <!-- Auth -->
+    <string name="auth_welcome_en">Welcome to AutoQR</string>
+    <string name="auth_welcome_hi">AutoQR में आपका स्वागत है</string>
+    <string name="auth_welcome_or">AutoQR କୁ ସ୍ଵାଗତ</string>
+
+    <string name="auth_subtitle_en">Smart Fare Management for Indian Rickshaws</string>
+    <string name="auth_subtitle_hi">भारतीय ऑटो रिक्शा के लिए स्मार्ट किराया प्रबंधन</string>
+    <string name="auth_subtitle_or">ଭାରତୀୟ ଅଟୋ ରିକ୍ସା ପାଇଁ ସ୍ମାର୍ଟ ଭଡ଼ା ପରିଚାଳନା</string>
+
+    <string name="auth_phone_label_en">Phone Number</string>
+    <string name="auth_phone_label_hi">फ़ोन नंबर</string>
+    <string name="auth_phone_label_or">ଫୋନ ନମ୍ବର</string>
+
+    <string name="auth_otp_label_en">Enter 6-Digit OTP</string>
+    <string name="auth_otp_label_hi">6-अंकीय OTP दर्ज करें</string>
+    <string name="auth_otp_label_or">୬-ଅଙ୍କ ବିଶିଷ୍ଟ OTP ଦିଅନ୍ତୁ</string>
+
+    <string name="auth_send_otp_btn_en">Send OTP</string>
+    <string name="auth_send_otp_btn_hi">OTP भेजें</string>
+    <string name="auth_send_otp_btn_or">OTP ପଠାନ୍ତୁ</string>
+
+    <string name="auth_verify_btn_en">Verify &amp; Log In</string>
+    <string name="auth_verify_btn_hi">सत्यापित करें और लॉगिन करें</string>
+    <string name="auth_verify_btn_or">ଯାଞ୍ଚ କରି ଲଗଇନ୍ କରନ୍ତୁ</string>
+
+    <!-- Driver Dashboard -->
+    <string name="driver_title_en">Driver Dashboard</string>
+    <string name="driver_title_hi">ड्राइवर डैशबोर्ड</string>
+    <string name="driver_title_or">ଡ୍ରାଇଭର ଡ୍ୟାସବୋର୍ଡ</string>
+
+    <string name="start_trip_btn_en">Start New Trip</string>
+    <string name="start_trip_btn_hi">नया सफ़र शुरू करो</string>
+    <string name="start_trip_btn_or">ନୂଆ ଯାତ୍ରା ଆରମ୍ଭ କରନ୍ତୁ</string>
+
+    <string name="today_trips_en">Today\'s Trips</string>
+    <string name="today_trips_hi">आज के सफ़र</string>
+    <string name="today_trips_or">ଆଜିର ଯାତ୍ରା</string>
+
+    <string name="today_earnings_en">Today\'s Earnings</string>
+    <string name="today_earnings_hi">आज की कमाई</string>
+    <string name="today_earnings_or">ଆଜିର ରୋଜଗାର</string>
+
+    <!-- Start Trip -->
+    <string name="passenger_scan_instruction_en">Ask passenger to scan this QR</string>
+    <string name="passenger_scan_instruction_hi">यात्री को यह QR स्कैन करने दें</string>
+    <string name="passenger_scan_instruction_or">ଯାତ୍ରୀଙ୍କୁ ଏହି QR ସ୍କାନ କରିବାକୁ କୁହନ୍ତୁ</string>
+
+    <!-- Active Trip -->
+    <string name="active_trip_title_en">Active Trip</string>
+    <string name="active_trip_title_hi">सक्रिय सफ़र</string>
+    <string name="active_trip_title_or">ଚାଲୁ ରହିଥିବା ଯାତ୍ରା</string>
+
+    <string name="gps_both_mode_en">📍 Both GPS Averaged</string>
+    <string name="gps_both_mode_hi">📍 दोनों GPS से average</string>
+    <string name="gps_both_mode_or">📍 ଉଭୟ GPS ହାରାହାରି</string>
+
+    <string name="gps_driver_mode_en">📍 Driver GPS Only</string>
+    <string name="gps_driver_mode_hi">📍 सिर्फ Driver GPS</string>
+    <string name="gps_driver_mode_or">📍 କେବଳ ଡ୍ରାଇଭର GPS</string>
+
+    <string name="end_trip_btn_en">End Trip</string>
+    <string name="end_trip_btn_hi">सफ़र खत्म करो</string>
+    <string name="end_trip_btn_or">ଯାତ୍ରା ଶେଷ କରନ୍ତୁ</string>
+
+    <!-- Completed Trip -->
+    <string name="trip_completed_en">Trip Completed</string>
+    <string name="trip_completed_hi">सफ़र समाप्त हुआ</string>
+    <string name="trip_completed_or">ଯାତ୍ରା ସମ୍ପୂର୍ଣ୍ଣ ହେଲା</string>
+
+    <string name="payment_qr_instruction_en">Scan QR to Pay</string>
+    <string name="payment_qr_instruction_hi">भुगतान के लिए इस QR को स्कैन करें</string>
+    <string name="payment_qr_instruction_or">ପେମେଣ୍ଟ କରିବାକୁ ଏହି QR ସ୍କାନ କରନ୍ତୁ</string>
+
+    <string name="new_trip_nav_en">New Trip</string>
+    <string name="new_trip_nav_hi">नया सफ़र</string>
+    <string name="new_trip_nav_or">ନୂଆ ଯାତ୍ରା</string>
+
+    <!-- Passenger flow -->
+    <string name="passenger_scan_title_en">Scan Driver QR Code</string>
+    <string name="passenger_scan_title_hi">Driver का QR Code स्कैन करें</string>
+    <string name="passenger_scan_title_or">ଡ୍ରାଇଭରର QR କୋଡ୍ ସ୍କାନ କରନ୍ତୁ</string>
+
+    <string name="gps_permission_explanation_en">GPS is required for accurate fare calculation.</string>
+    <string name="gps_permission_explanation_hi">सटीक किराया जानने के लिए GPS ज़रूरी है</string>
+    <string name="gps_permission_explanation_or">ସଠିକ୍ ଭଡ଼ା ଜାଣିବା ପାଇଁ GPS ଜରୁରୀ ଅଟେ</string>
+
+    <string name="start_with_gps_en">Start with GPS</string>
+    <string name="start_with_gps_hi">GPS चालू करके शुरू करो</string>
+    <string name="start_with_gps_or">GPS ସହ ଆରମ୍ଭ କରନ୍ତୁ</string>
+
+    <string name="start_without_gps_en">Start without GPS</string>
+    <string name="start_without_gps_hi">बिना GPS शुरू करो</string>
+    <string name="start_without_gps_or">ବିନା GPS ରେ ଆରମ୍ଭ କରନ୍ତୁ</string>
+
+    <string name="driver_will_end_en">Driver will end the trip</string>
+    <string name="driver_will_end_hi">Driver सफ़र खत्म करेगा</string>
+    <string name="driver_will_end_or">ଡ୍ରାଇଭର ଯାତ୍ରା ଶେଷ କରିବେ</string>
+
+    <string name="done_payment_btn_en">Done ✓</string>
+    <string name="done_payment_btn_hi">हो गया ✓</string>
+    <string name="done_payment_btn_or">ହୋଇଗଲା ✓</string>
+
+    <!-- Errors -->
+    <string name="no_internet_banner_en">No Internet — Trip is paused</string>
+    <string name="no_internet_banner_hi">इंटरनेट नहीं है — सफ़र रुका हुआ है</string>
+    <string name="no_internet_banner_or">ଇଣ୍ଟରନେଟ୍ ନାହିଁ — ଯାତ୍ରା ଅଟକି ଯାଇଛି</string>
+
+    <string name="invalid_qr_error_en">This QR is invalid or expired</string>
+    <string name="invalid_qr_error_hi">यह QR invalid है या expired है</string>
+    <string name="invalid_qr_error_or">ଏହି QR କୋଡ୍ ଅବୈଧ କିମ୍ବା ମିଆଦ ପୂର୍ଣ୍ଣ ଅଟେ</string>
+
+    <!-- Settings -->
+    <string name="vehicle_number_label_en">Vehicle Number</string>
+    <string name="vehicle_number_label_hi">गाड़ी का नंबर</string>
+    <string name="vehicle_number_label_or">ଗାଡ଼ି ନମ୍ବର</string>
+
+    <string name="fare_rate_label_en">Fare Rate (₹/km)</string>
+    <string name="fare_rate_label_hi">किराया दर (₹/किमी)</string>
+    <string name="fare_rate_label_or">ଭଡ଼ା ହାର (₹/କିମି)</string>
+
+    <string name="upload_qr_btn_en">Upload New QR</string>
+    <string name="upload_qr_btn_hi">नया QR अपलोड करो</string>
+    <string name="upload_qr_btn_or">ନୂଆ QR ଅପଲୋଡ୍ କରନ୍ତୁ</string>
+
+    <string name="logout_btn_en">Log Out</string>
+    <string name="logout_btn_hi">लॉग आउट</string>
+    <string name="logout_btn_or">ଲଗ୍ ଆଉଟ୍</string>
+</resources>

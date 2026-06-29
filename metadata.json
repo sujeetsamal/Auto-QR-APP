@@ -1,0 +1,6 @@
+{
+  "name": "AutoQR",
+  "description": "Smart fare management system for auto rickshaw drivers and passengers in India with real-time GPS tracking and QR-based fare calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
